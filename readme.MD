@@ -83,8 +83,7 @@ Ini gambaran (_mockup_) kira-kira gimana tampilan _dashboard_ adminnya nanti.
 Desainnya dibikin modern, _sleek_, dengan _sidebar_ yang ngemudahin navigasi
 antar modul CRUD.
 
-![Library Dashboard Mockup](C:\Users\Master
-Vico\.gemini\antigravity\brain\ff55f023-272d-400d-8ca7-c5596dcc4d82\library_dashboard_mockup_1780053482165.png)
+![Library Dashboard Mockup](mockup.png)
 
 _(Konsep UI: Dark/Light mode support, tabel data yang responsif, dan layout
 glassmorphism yang kekinian)._
